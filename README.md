@@ -1,9 +1,5 @@
 # API Automation Test
 
-![Jest](https://img.shields.io/badge/Tested_with-Jest-blue)
-![Node.js](https://img.shields.io/badge/Powered_by-Node.js-green)
-![TypeScript](https://img.shields.io/badge/Built_with-TypeScript-blue)
-
 ## Project Description
 This project is an API automation testing framework designed to validate the functionality of an image upload API and a ZIP upload API. The tests are executed using Jest and TypeScript to ensure API reliability and correctness.
 
