@@ -66,5 +66,5 @@ The test covers two main functionalities:
 This project runs using **Visual Studio Code** as the primary development environment.
 
 ## Bug Reports
-Bug reports have been moved to **GitHub Issues** for proper tracking and resolution. Please check the repository's [Issues](https://github.com/YOUR_REPO/issues) section for details.
+Bug reports have been moved to **GitHub Issues** for proper tracking and resolution. Please check the repository's [Issues](https://github.com/Sabrina---Technical-Assesment/issues) section for details.
 
